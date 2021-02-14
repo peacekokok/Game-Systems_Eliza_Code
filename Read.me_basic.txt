@@ -1,0 +1,6 @@
+Peace<po6743@bard.edu>
+Keith O'hara
+02/16/2021
+CMSC 335: Game systems
+Basic Code Reimagining
+Collaborative statement:used code from JOSEPH WEIZENBAUM. Worked with my brother on the code.
